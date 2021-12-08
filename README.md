@@ -11,7 +11,20 @@ Our users are are companies with lots of data and complex problems to solve, som
 
 ## Goals and Limitations
 
-TODO, explain the accuary and ranking goals, built in bias
+The goal of this project is to democratize and push forward the fronier of AI-powered tools for low-risk predictons.
+
+Aims:
+* Medusa aims for "80%" accuracy across models that predict "widely useful" metrics, and leaves fine model tuning to other projects or medusa forks.
+* Medusa aims to be cross-platform, fast, and willing to take many forms of data
+
+The Medusa team thinks this statement is silly...
+
+> “I am telling you, the world’s first trillionaires are going to come from somebody who masters AI and all its derivatives and applies it in ways we never thought of” - Mark Cuban
+
+We think that this statement typical of people who don't fit models for a living. Sure, ML models can make people oodles of money but cheap categorization and "80%" models like those that Medusa produces can move the ball forward for all businesses, and can be free. (If they weren't free they would be easy to copy, too)
+
+DISCLAIMER: Given all of the statements above Medusa is not a GPAI looking to solve self-driving or life-and-death decisions for medicine.
+
 
 ## Use Cases
 
