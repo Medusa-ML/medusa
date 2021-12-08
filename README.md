@@ -17,10 +17,14 @@ TODO, explain the accuary and ranking goals, built in bias
 
 TODO, patent, FBI, wine pricing, fintech
 
-# Open Source Models (completed and TODO)
+## Open Source Models (completed and TODO)
 
 TODO
 
-# Compatable Closed Source Models
+## Compatable Closed Source Models
 
 TODO
+
+## Cases
+
+[Patent AI](https://www.economist.com/business/2021/12/04/a-new-way-of-understanding-the-high-but-elusive-worth-of-intellectual-property)
