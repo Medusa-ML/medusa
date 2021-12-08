@@ -1,7 +1,7 @@
+<img src="./docs/Logos/Medusa Color/Medusa RGB.jpg" alt="Medusa Logo" style="width:75%;"/>
+
 # Medusa
 an open source cross-platform general purpose AI for making "black box" classifications of documents, images and more 
-
-<img src="./docs/Logos/Medusa RGB.jpg" alt="Medusa Logo" style="width:200px;"/>
 
 ## What is Medusa?
 
@@ -16,3 +16,11 @@ TODO, explain the accuary and ranking goals, built in bias
 ## Use Cases
 
 TODO, patent, FBI, wine pricing, fintech
+
+# Open Source Models (completed and TODO)
+
+TODO
+
+# Compatable Closed Source Models
+
+TODO
