@@ -34,7 +34,7 @@ DISCLAIMER: Given all of the statements above Medusa is not a GPAI looking to so
 * Resume Sorting (TODO)
 * Content Moderation (TODO)
 
-## Open Source Models (completed and TODO)
+## Current Models in Development
 
 * Sentiment (TO ADD)
 * Basic Categorization (TO ADD)
@@ -42,9 +42,9 @@ DISCLAIMER: Given all of the statements above Medusa is not a GPAI looking to so
 * Age Appropriateness x1 (TO ADD)
 * Technical Score (TO ADD)
 
-## Compatable Closed Source Models
+## Models Waiting Sponsorship
 
-for pricing and (paid) access to these models please email [medusa@bradflaugher.com](medusa@bradflaugher.com)
+for sponsorship info please email [medusa@bradflaugher.com](medusa@bradflaugher.com)
 
 * Pricing x2, x3, x4
 * Advanced Categorization x2
