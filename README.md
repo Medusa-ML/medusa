@@ -36,11 +36,11 @@ DISCLAIMER: Given all of the statements above Medusa is not a GPAI looking to so
 
 ## Current Models in Development
 
-* Sentiment (TO ADD)
-* Basic Categorization (TO ADD)
-* Pricing x1 (TO ADD)
-* Age Appropriateness x1 (TO ADD)
-* Technical Score (TO ADD)
+* Sentiment
+* Basic Categorization 
+* Pricing x1
+* Age Appropriateness x1 
+* Technical Score 
 
 ## Models Waiting Sponsorship
 
