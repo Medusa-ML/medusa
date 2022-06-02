@@ -26,31 +26,36 @@ We think that this statement typical of people who don't fit models for a living
 DISCLAIMER: Given all of the statements above Medusa is not a GPAI looking to solve self-driving or life-and-death decisions for medicine.
 
 
-## Use Cases
+## Open Datasets Used or in Consideration
 
-* Patent Ranking [Explainer](https://www.economist.com/business/2021/12/04/a-new-way-of-understanding-the-high-but-elusive-worth-of-intellectual-property)
-* Find the Spy for the FBI (TODO)
-* Wine Pricing (TODO)
-* Resume Sorting (TODO)
-* Content Moderation (TODO)
+[Kaggle](https://www.kaggle.com/)
+[Common Crawl](https://commoncrawl.org/)
+[Data.gov](https://data.gov/)
+[https://github.com/awesomedata/awesome-public-datasets](Awesome Data)
+[https://datasetsearch.research.google.com/](Google Datasets)
+[https://www.drivendata.org](Driven Data)
+[https://www.crowdanalytix.com/community](Crowd Analytix)
+[https://signate.jp/](Signate)
+[https://zindi.africa/](Zindi)
+[https://datahack.analyticsvidhya.com/](Analytics Vidhya)
+[https://codalab.lisn.upsaclay.fr/](Coda Lab)
+[https://numer.ai/](Numerai)
+[https://tianchi.aliyun.com/](Aliyun)
+[https://www.aicrowd.com/](Ai Crowd)
+[https://challenge.datacastle.cn/v3/cmptlist.html](Data Castle)
+[https://www.heywhale.com/about](Kesci)
+[https://www.biendata.xyz](Bien Data)
+[https://www.datafountain.cn](Data Fountain)
+[https://www.openml.org](Open ML)
+[https://mlcollective.org/](ML Collective)
+[https://grand-challenge.org/](Grand Challenge)
+[https://www.datasource.ai/en](DataSource.ai)
 
-## Current Models in Development
 
-* Sentiment
-* Basic Categorization 
-* Pricing x1
-* Age Appropriateness x1 
-* Technical Score 
-
-## Models Waiting Sponsorship
+## Model Sponsorship
 
 for sponsorship info please email [medusa@bradflaugher.com](medusa@bradflaugher.com)
 
-* Pricing x2, x3, x4
-* Advanced Categorization x2
-* SkillScore 
-* CultureScore
-* EmotionReducer
 
 
 
