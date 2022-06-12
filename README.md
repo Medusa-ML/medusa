@@ -16,6 +16,7 @@ The goal of this project is to democratize and push forward the fronier of AI-po
 Aims:
 * Medusa aims for "80%" accuracy across models that predict "widely useful" metrics, and leaves fine model tuning to other projects or medusa forks.
 * Medusa aims to be cross-platform, fast, and willing to take many forms of data
+* Medusa aims to address the "Intelligent Personal Assistant" request on the [High Priority Projects List of the Free Software Foundation](https://www.fsf.org/campaigns/priority-projects/personalassistant)
 
 The Medusa team thinks this statement is silly...
 
