@@ -53,9 +53,13 @@ DISCLAIMER: Given all of the statements above Medusa is not a GPAI looking to so
 * [Datasource.ai](https://www.datasource.ai/en)
 
 
-## Model Sponsorship
+## Model Requests and Sponsorship
 
 for sponsorship info please email [medusa@bradflaugher.com](medusa@bradflaugher.com)
+
+## Support the Project
+
+[![BTC](https://img.shields.io/badge/-Bitcoin-5b5b5b?logo=bitcoin)](https://explorer.btc.com/btc/address/37s4d4NJhNAZ5Pt18xLk74HnnnBzSpuARd): `37s4d4NJhNAZ5Pt18xLk74HnnnBzSpuARd`
 
 
 
