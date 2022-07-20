@@ -27,30 +27,85 @@ We think that this statement typical of people who don't fit models for a living
 DISCLAIMER: Given all of the statements above Medusa is not a GPAI looking to solve self-driving or life-and-death decisions for medicine.
 
 
-## Open Datasets Used or in Consideration
+## Datasets by Model
 
-* [Kaggle](https://www.kaggle.com)
-* [Common Crawl](https://commoncrawl.org)
+### Cochran - The Legal Document Scoring Model
+
+* [US Court Records](https://www.uscourts.gov/court-records) 
 * [Data.gov](https://data.gov)
-* [Awesome Data](https://github.com/awesomedata/awesome-public-datasets)
-* [Google Dataset Search](https://datasetsearch.research.google.com)
-* [Driven Data](https://www.drivendata.org)
-* [CrowdAlytix](https://www.crowdanalytix.com/community)
-* [Signate](https://signate.jp)
-* [Zindi](https://zindi.africa/)
-* [Vidya Analytics](https://datahack.analyticsvidhya.com)
-* [Codalab](https://codalab.lisn.upsaclay.fr)
-* [Numerai](https://numer.ai/)
-* [Aliyun](https://tianchi.aliyun.com/)
-* [Aircrowd](https://www.aicrowd.com/)
-* [DataCastle Challenge](https://challenge.datacastle.cn/v3/cmptlist.html)
-* [Heywhale](https://www.heywhale.com/about)
-* [Biendata](https://www.biendata.xyz)
-* [Datafountain](https://www.datafountain.cn)
-* [Openml](https://www.openml.org)
-* [MLCollective](https://mlcollective.org/)
-* [Grand Challenge](https://grand-challenge.org)
-* [Datasource.ai](https://www.datasource.ai/en)
+
+### Greenspan - Economic Models
+
+* [FRED](https://fred.stlouisfed.org/) via [fredapi](https://github.com/mortada/fredapi)
+
+### Assange - Classified Document Models
+
+* [Wikileaks Torrent](https://archive.org/details/file_20210114)
+* [Common Crawl](https://commoncrawl.org)
+
+### Earp - Criminal Photo Model
+
+* [Arrests.org](https://arrests.org/)
+* [Kaggle](https://www.kaggle.com)
+
+### Hearst - News & Propaganda Model
+
+* [Common Crawl](https://commoncrawl.org)
+* Russia Today / China Daily
+* NYTimes / WSJ
+
+### Shortz - Definition Model
+
+* [Urban Dictionary](https://urbandictionary.com)
+* [WantWords](https://github.com/thunlp/WantWords)
+
+### Jacobs - Luxury Scoring Model
+
+* [Uncrate](https://uncrate.com/)
+* [Airows](airows.com)
+* [Gear Patrol](gearpatrol.com)
+* [GQ](gq.com)
+* [Hi Consumption](hiconsumption.com)
+* [Vogue](https://www.vogue.com/)
+
+### Hilton - Gossip Model
+
+* [US](usmagazine.com)
+* [Hilton](hellomagazine.com)
+* [Perez](http://perezhilton.com/)
+* [Just Jared](http://www.justjared.com/)
+* [OK](http://www.okmagazine.com/)
+* [Celebuzz](http://www.celebuzz.com/) 
+* [Hollywood Gossip](http://www.thehollywoodgossip.com/)
+* [Gossip Cop](http://www.gossipcop.com/)
+
+### Covey - Business Advice Model
+
+* [HBR](hbr.org)
+* [Inc](inc.com)
+* [Entrepreneur](entrepreneur.com)
+* [Forbes](forbes.com)
+* [The Balance](thebalancesmb.com)
+* [Investopedia](investopedia.com)
+* [Neil Patel](neilpatel.com)
+* [Fast Company](fastcompany.com) 
+* [Business News Daily](businessnewsdaily.com)
+* [Chron](chron.com)
+* [TechCrunch](techcrunch.com)
+
+### Colbert - Satire Model
+
+* [The Onion](https://www.theonion.com/)
+* [Clickhole](https://clickhole.com/)
+* [Private Eye](https://www.private-eye.co.uk/)
+* [Daily Mash](https://www.thedailymash.co.uk/)
+* [News Thump](https://newsthump.com/)
+* [Snopes](https://www.snopes.com/)
+
+### Buffet - SEC-Filings vs Stock Performance
+
+* [EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html) via [python-edgar](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+* [Yahoo! Finance](https://finance.yahoo.com) via [yfinance](https://github.com/ranaroussi/yfinance)
 
 
 ## Model Requests and Sponsorship
