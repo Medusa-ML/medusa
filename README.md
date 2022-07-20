@@ -32,6 +32,13 @@ DISCLAIMER: Given all of the statements above Medusa is not a GPAI looking to so
 ### Cochran - The Legal Document Scoring Model
 
 * [US Court Records](https://www.uscourts.gov/court-records) 
+* [Federal Court Cases](https://www.icpsr.umich.edu/web/NACJD/series/72)
+* [Justice.gov](https://www.justice.gov/jmd/ls/state)
+* [Justia](https://dockets.justia.com/)
+* [Federal Records Center](https://www.archives.gov/frc/atlanta)
+* [Supreme Court](https://www.supremecourt.gov/docket/docket.aspx)
+* [UCLA Law Library](https://libguides.law.ucla.edu/dockets/federal)
+* [VA Courts]( https://www.vacourts.gov/courtadmin/library/federal.html)
 * [Data.gov](https://data.gov)
 
 ### Greenspan - Economic Models
