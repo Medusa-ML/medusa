@@ -57,7 +57,7 @@ DISCLAIMER: Given all of the statements above Medusa is not a GPAI looking to so
 
 ### Hearst - News & Propaganda Model
 
-* [Common Crawl](https://commoncrawl.org)
+* [Common Crawl](https://commoncrawl.org) via [comcrawl](https://github.com/michaelharms/comcrawl)
 * Russia Today / China Daily
 * NYTimes / WSJ
 
