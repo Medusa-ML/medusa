@@ -23,3 +23,6 @@
 * [Grand Challenge](https://grand-challenge.org)
 * [Datasource.ai](https://www.datasource.ai/en)
 
+## Inspiring Models
+
+* [Huggable](https://github.com/daspartho/is-it-huggable)
