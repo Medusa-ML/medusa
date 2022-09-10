@@ -123,6 +123,11 @@ for sponsorship info please email [medusa@bradflaugher.com](medusa@bradflaugher.
 
 [![BTC](https://img.shields.io/badge/-Bitcoin-5b5b5b?logo=bitcoin)](https://explorer.btc.com/btc/address/37s4d4NJhNAZ5Pt18xLk74HnnnBzSpuARd): `37s4d4NJhNAZ5Pt18xLk74HnnnBzSpuARd`
 
+## Inspiraton
 
+Stealing ideas is caring :). Here are some other projects we have a particular affinity for.
+
+* [Huggable](https://github.com/daspartho/is-it-huggable)
+* [Open Minded](https://github.com/OpenMined/)
 
 
