@@ -15,6 +15,7 @@ The goal of this project is to democratize and push forward the fronier of AI-po
 
 ### Cochran - The Legal Document Scoring Model
 
+* [Court Listener](https://www.courtlistener.com/api/bulk-info/)
 * [US Court Records](https://www.uscourts.gov/court-records) 
 * [Federal Court Cases](https://www.icpsr.umich.edu/web/NACJD/series/72)
 * [Justice.gov](https://www.justice.gov/jmd/ls/state)
@@ -108,12 +109,5 @@ for sponsorship info please email [medusa@bradflaugher.com](medusa@bradflaugher.
 ## Support the Project
 
 [![BTC](https://img.shields.io/badge/-Bitcoin-5b5b5b?logo=bitcoin)](https://explorer.btc.com/btc/address/37s4d4NJhNAZ5Pt18xLk74HnnnBzSpuARd): `37s4d4NJhNAZ5Pt18xLk74HnnnBzSpuARd`
-
-## Inspiraton
-
-Stealing ideas is caring :). Here are some other projects we have a particular affinity for.
-
-* [Huggable](https://github.com/daspartho/is-it-huggable)
-* [Open Minded](https://github.com/OpenMined/)
 
 
