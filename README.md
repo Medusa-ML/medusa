@@ -98,7 +98,7 @@ The goal of this project is to democratize and push forward the fronier of AI-po
 
 ### Buffet - SEC-Filings vs Stock Performance
 
-* [EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html) via [python-edgar](https://www.sec.gov/edgar/searchedgar/companysearch.html)
+* [EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html) via [python-edgar](https://www.sec.gov/edgar/searchedgar/companysearch.html) or [sec-edgar](https://github.com/sec-edgar/sec-edgar)
 * [Yahoo! Finance](https://finance.yahoo.com) via [yfinance](https://github.com/ranaroussi/yfinance)
 
 
