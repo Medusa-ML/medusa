@@ -26,6 +26,16 @@ The goal of this project is to democratize and push forward the fronier of AI-po
 * [VA Courts]( https://www.vacourts.gov/courtadmin/library/federal.html)
 * [Data.gov](https://data.gov)
 
+### Buffet - SEC-Filings vs Stock Performance
+
+* [EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html) via [python-edgar](https://www.sec.gov/edgar/searchedgar/companysearch.html) or [sec-edgar](https://github.com/sec-edgar/sec-edgar)
+* [Yahoo! Finance](https://finance.yahoo.com) via [yfinance](https://github.com/ranaroussi/yfinance)
+
+### Earp - Criminal Photo Model
+
+* [Arrests.org](https://arrests.org/) via [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj)
+* [CelebA Faces](https://huggingface.co/datasets/nielsr/CelebA-faces)
+
 ## Proposed Models
 
 ### Greenspan - Economic Models
@@ -36,11 +46,6 @@ The goal of this project is to democratize and push forward the fronier of AI-po
 
 * [Wikileaks Torrent](https://archive.org/details/file_20210114)
 * [Common Crawl](https://commoncrawl.org)
-
-### Earp - Criminal Photo Model
-
-* [Arrests.org](https://arrests.org/)
-* [Kaggle](https://www.kaggle.com)
 
 ### Hearst - News & Propaganda Model
 
@@ -95,11 +100,6 @@ The goal of this project is to democratize and push forward the fronier of AI-po
 * [Daily Mash](https://www.thedailymash.co.uk/)
 * [News Thump](https://newsthump.com/)
 * [Snopes](https://www.snopes.com/)
-
-### Buffet - SEC-Filings vs Stock Performance
-
-* [EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html) via [python-edgar](https://www.sec.gov/edgar/searchedgar/companysearch.html) or [sec-edgar](https://github.com/sec-edgar/sec-edgar)
-* [Yahoo! Finance](https://finance.yahoo.com) via [yfinance](https://github.com/ranaroussi/yfinance)
 
 
 ## Model Requests and Sponsorship
