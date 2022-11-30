@@ -108,6 +108,6 @@ for sponsorship info please email [medusa@bradflaugher.com](medusa@bradflaugher.
 
 ## Support the Project
 
-[![BTC](https://img.shields.io/badge/-Bitcoin-5b5b5b?logo=bitcoin)](https://explorer.btc.com/btc/address/37s4d4NJhNAZ5Pt18xLk74HnnnBzSpuARd): `37s4d4NJhNAZ5Pt18xLk74HnnnBzSpuARd`
+* [![BTC](https://img.shields.io/badge/-Bitcoin-5b5b5b?logo=bitcoin)](https://explorer.btc.com/btc/address/37s4d4NJhNAZ5Pt18xLk74HnnnBzSpuARd): `37s4d4NJhNAZ5Pt18xLk74HnnnBzSpuARd`
 
-
+* [via Patreon](https://www.patreon.com/bradflaugher)
