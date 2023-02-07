@@ -1,11 +1,7 @@
 <img src="./docs/Logos/Medusa Color/Medusa RGB.jpg" alt="Medusa Logo" style="width:75%;"/>
 
 # Medusa
-open source cross-platform classifiers for making "black box" classifications of documents, images and more 
-
-## What is Medusa?
-
-Medusa is an ensemble of classification models that works on images and text. 
+open source cross-platform classifiers and generative models
 
 ## Goals and Limitations
 
