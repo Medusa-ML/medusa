@@ -11,7 +11,6 @@ The goal of this project is to democratize and push forward the fronier of AI-po
 
 * Neural-style
 * Open-Assistant
-* Mann-E
 
 ## Medusa-Led Models in Development (Developed Oct-Dec during bootcamps)
 
