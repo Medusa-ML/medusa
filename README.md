@@ -11,7 +11,13 @@ Medusa is an ensemble of classification models that works on images and text.
 
 The goal of this project is to democratize and push forward the fronier of AI-powered tools for low-risk predictons.
 
-## Models in Development
+### Medusa Contributions
+
+* Neural-style
+* Open-Assistant
+* Mann-E
+
+## Medusa-Led Models in Development (Developed Oct-Dec during bootcamps)
 
 ### Cochran - The Legal Document Scoring Model
 
